@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboratorio4.5_Practica</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="consultar">Cons</string>
+    <string name="insertar">Ins</string>
+    <string name="eliminar">Elim</string>
+    <string name="llamadas">Calls</string>
+</resources>
